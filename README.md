@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]  
+# 👋 Hello, World! I'm Araf! 
 
 ### 👨‍💻 About Me  
 Hi! I'm a passionate developer, born at the end of September, and currently 15 years old. I started my coding journey in 2020 and have been exploring the endless possibilities of technology ever since.  
