@@ -13,7 +13,8 @@ Hi! I'm a passionate developer, born in the end of September, and currently 15 y
 - **Backend & APIs**:  
   - FastAPI  
   - Firebase  
-  - Supabase  
+  - Supabase
+  - Actix-Web
 
 - **Bots & Automation**:  
   - Discord.py  
