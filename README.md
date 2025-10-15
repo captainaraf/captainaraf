@@ -1,10 +1,10 @@
 I am a technologist, writing code since 2020. I don't prefer taking gigantic courses on something before starting to work on something. I just simply begin, and figure out my way. *First make it work, then make it better.*
 
 # About Me
-- Co-Founded and Operating Nyonn, a Bangladesh based software startup aiming to become Bangladesh Tech Support.
+- Assistant Executive of Technology at WhiteBoard Initiatives, one of the largets STEM non profits in Bangladesh
 - Co-Founded and Operating Dead Mans Tech, an awesome software startup aiming to make people's lives easier with the products.
 - Contestant at Bangladesh Olympiad in Informatics
-- Contestant at Bangladesh Artificial Intelligence Olympiad
+- National Camper at Bangladesh Artificial Intelligence Olympiad
 
 I love working on complicated things. Things that challenge my engineering capabilities. I always worked on things that felt hard enough for me, and I will continue to do so. 
 
