@@ -2,7 +2,7 @@ I am a technologist, writing code since 2020. I don't prefer taking gigantic cou
 
 # About Me
 - Assistant Executive of Technology at WhiteBoard Initiatives, one of the largets STEM non profits in Bangladesh
-- Co-Founded and Operating Dead Mans Tech, an awesome software startup aiming to make people's lives easier with the products.
+- Co-Founder, CEO and CTO at PippaQuiz, an awesome platform aimed to help teachers create quizzes from study materials, so that they can focus on the greater good.
 - Contestant at Bangladesh Olympiad in Informatics
 - National Camper at Bangladesh Artificial Intelligence Olympiad
 
