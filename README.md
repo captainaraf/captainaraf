@@ -6,7 +6,7 @@ I am a technologist, writing code since 2020. I don't prefer taking gigantic cou
 - Contestant at Bangladesh Olympiad in Informatics
 - National Camper at Bangladesh Artificial Intelligence Olympiad
 
-I love working on complicated things. Things that challenge my engineering capabilities. I always worked on things that felt hard enough for me, and I will continue to do so. 
+I love working on complicated things. Things that challenge my engineering capabilities. I always worked on things that felt hard enough for me, and I will continue to do so. Right now, I am trying to change the way people assess knowledge with Dead Mans Tech's product PippaQuiz, https://www.pippaquiz.com/
 
 I am a strong believer of Luna Lovegood's quote, *Wit beyond measure, is a man's greatest treasure.* I always prioritize my strategic abilities and thinking capabilities above anything else. After all, I am trying to be in business and wealth development ;). 
 
