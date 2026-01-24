@@ -2,7 +2,7 @@ Efficiency first, and the biggest form of efficiency is removing the ineffective
 
 # About Me
 - Assistant Executive of Technology at WhiteBoard Initiatives, one of the largets STEM non profits in Bangladesh
-- Co-Founder, CEO and CTO at Dead Mans Tech, an awesome company aimed at making people's lives easier with technology.
+- Co-Founder, CEO and CTO at PippaQuiz, a platform that helps teacher be more efficient by generating exam questions with AI.
 - Contestant at Bangladesh Olympiad in Informatics
 - National Camper at Bangladesh Artificial Intelligence Olympiad
 
