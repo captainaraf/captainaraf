@@ -4,7 +4,6 @@ Everyday, my goal is to be as much helpful as I can.
 - I Co-Founded and leading [PippaQuiz](https://pippaquiz.com/), an AI platform where teachers can create exam questions, conduct exams, and automatically grade exam papers, all within a few minutes that would otherwise take them hours. We recently received the "Best Startup" award at a renowed startup summit in Bangladesh.
 - I am a national camper at Bangladesh Artificial Intelligence Olympiad
 - I am a national contestant at Bangladesh Olympiad in Informatics
-- I am founded an open source, non profit and community managed academic syllabus reference guide for Bangladeshi Students, named [Open Curriculum Library of Bangladesh (OCLB)](https://oclb.vercel.com/).
 - I am very much interested in business, I very often experiment and research a lots of business ideas. However, my plan is always to maximize the `impact/revenue` ratio.
 - I am very interested in STEM, you will always find me studying mathematics, physics, chemistry or computer science.
 
