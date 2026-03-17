@@ -20,4 +20,4 @@ Everyday, my goal is to be as much helpful as I can.
 - Clean and Sustainable Energy (specially solar), Sustainable energy storage systems
 - Intelligent Systems (working on things that take us closer to developing AGI)
 - Robotics, Electronics systems that help people automate things
-- Projects that disrupt bureaucratic business industry (for example, OCLB is a threat to all the businesses that rely heavily on selling paper based guidebooks)
+- Projects that disrupt bureaucratic business industry 
